@@ -1,4 +1,4 @@
-Firebase kullanarak oluşturduğum kullanıcının maili ve şifresi ile giriş yapabldiği bir react native uygulamasıdır.
+Firebase kullanarak oluşturduğum kullanıcının maili ve şifresi ile giriş yapabildiği bir react native uygulamasıdır.
 
 
 
