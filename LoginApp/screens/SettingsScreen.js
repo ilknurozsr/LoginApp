@@ -9,7 +9,7 @@ export default function SettingsScreen({ navigation }) {
   const handlePress = () => {
     Animated.sequence([
       Animated.timing(scaleAnim, {
-        toValue: 0.8, // Butonu daha fazla küçült
+        toValue: 0.8, 
         duration: 100,
         useNativeDriver: true,
       }),

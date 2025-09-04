@@ -23,7 +23,7 @@ export default function MainTabNavigator() {
         },
         tabBarActiveTintColor: 'blue',
         tabBarInactiveTintColor: 'gray',
-        headerShown: false, // İstersen üst başlığı gizlemek için
+        headerShown: false, 
       })}
     >
       <Tab.Screen name="Home" component={HomeTabScreen} />
